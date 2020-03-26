@@ -2,7 +2,7 @@ This is My GIT Part,
 
 GIT:--
 
-1. Its a source code managemnet tool
+1. Its a source code management tool
 
 2. Its a Distributed Version Control
 
